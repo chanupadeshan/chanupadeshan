@@ -18,30 +18,14 @@
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:chanupadeshan2002@gmail.com)
 
 
-## Activity:
+## Most Used Languages
 
-![Chanupa's Graph](https://github-readme-activity-graph.vercel.app/graph?username=chanupadeshan&custom_title=Chanupa's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
-<a> 
-
-  <a href="https://github.com/chanupadeshan"><img alt="chanupa's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=chanupadeshan&langs_count=8&layout=compact&theme=react&border_color=00FF00&bg_color=0D1117&title_color=00FF00&icon_color=00FF00" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanupadeshan&layout=compact&theme=radical)
 
 
 # 💻 Tech Stack:
 
-## programming Languages:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
 
 ## Web Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
