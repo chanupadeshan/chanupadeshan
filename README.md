@@ -65,7 +65,7 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-%23F37626.svg?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Data Structures and Algorithms](https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-%230769AD.svg?style=for-the-badge)
+![Data Structures and Algorithms(DSA)](https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-%230769AD.svg?style=for-the-badge)
 
 
 
