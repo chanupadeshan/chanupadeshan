@@ -20,7 +20,7 @@
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanupadeshan&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanupadeshan&layout=compact&bg_color=000000&text_color=ffffff&hide=html,css,powershell,batchfile&langs_count=10)
 
 
 # 💻 Tech Stack:
