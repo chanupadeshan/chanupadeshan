@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Transformers-FFB300?style=flat&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-292929?style=flat&logo=darkreader&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-292929?style=flat&logo=darkreader&logoColor=white" />
   <img src="https://img.shields.io/badge/LoRA-800080?style=flat&logo=marketo&logoColor=white" />
 </p>
 
@@ -49,6 +49,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
 
 
