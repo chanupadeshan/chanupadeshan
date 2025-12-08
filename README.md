@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=sqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
 </p>
 
 ### 🧠 ML / GenAI
